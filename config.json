@@ -1,7 +1,7 @@
 {
-    "clientId": "1012305390546976869",
+    "clientId": process.env.CLIENT_ID,
     "guildId": "",
-    "token": "MTAxMjMwNTM5MDU0Njk3Njg2OQ.GXCWCk.5g0X6W6MFcn8NGHYtzLvWvEu5zzQdbZof7za7Y",
+    "token": process.env.TOKEN,
     "roleID": "",
     "permID": ""
 }
